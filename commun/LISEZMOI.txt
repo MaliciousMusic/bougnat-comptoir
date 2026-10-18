@@ -1,0 +1,1 @@
+Copie de fichiers du site public (bougnat-burger), faite par outils/synchro.mjs : ne pas modifier ici.

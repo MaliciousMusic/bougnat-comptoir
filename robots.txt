@@ -1,0 +1,3 @@
+# Le comptoir est privé : aucun robot.
+User-agent: *
+Disallow: /

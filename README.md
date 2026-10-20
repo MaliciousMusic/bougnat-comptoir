@@ -3,6 +3,8 @@
 Le panneau de François, **privé**, séparé du site public ([bougnat-burger](https://github.com/MaliciousMusic/bougnat-burger)) : cinq onglets en bas de l'écran, pour un téléphone ou une tablette posée au comptoir. Il s'installe comme une appli (« Comptoir ») depuis le navigateur, sans magasin d'applis.
 
 > **Maquette.** Les données vivent dans le navigateur (`localStorage`) et le code d'accès (`2012`) est écrit dans `admin.js`. Avant de servir avec de vraies données : la connexion de François côté serveur, et la page derrière Cloudflare Access (voir [DEPLOIEMENT.md](DEPLOIEMENT.md)).
+>
+> **Le temps de la démo**, ce dépôt est **public** et publié sur GitHub Pages : https://maliciousmusic.github.io/bougnat-comptoir/ (code `2012`). Même domaine que le site (`maliciousmusic.github.io/bougnat-burger/`), donc les mêmes données de démo dans un même navigateur : une commande passée sur le site sonne au comptoir. Avant les vraies données : repasser le dépôt en privé, couper GitHub Pages et suivre DEPLOIEMENT.md.
 
 ## Les onglets
 
